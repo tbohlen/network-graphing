@@ -1,0 +1,58 @@
+body {
+	font-family: georgia;
+}
+#theCanvas{
+	position:absolute;
+	top:0;
+	left:0;
+	}
+.inputwrap {
+	position: absolute;
+	right: 0px;
+	top: 20px;
+	width:280px;
+}
+input[type=button] {
+	width: 200px;
+}
+input{
+	display: block;
+	background: #ddd;
+	color: black;
+	border: none;
+	width: 100px;
+	margin: 0px 0px 12px 12px;
+	cursor: pointer;
+}
+label {
+	display: block;
+	border: none;
+	margin: 12px 12px 0px 12px;
+}
+p {
+	display: block;
+	border: none;
+	margin: 3px 12px 3px 12px;
+}
+.nodeInput {
+	display: inline-block;
+	background: #ddd;
+	color: black;
+	border: none;
+	width: 50px;
+	margin: 3px 6px 0px 0px;
+	cursor: pointer;
+}
+.nodeLabel {
+	display: inline-block;
+	border: none;
+	margin: 0px 6px 0px 0px;
+}
+.graphOptions {
+	margin-top: -6px;
+	margin-left: 48px;
+	margin-bottom: 24px;
+}
+.info {
+	margin: 36px 0px;
+}

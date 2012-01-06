@@ -1,0 +1,1 @@
+Network Graphing is a processing.js application that visualizes a graph network by applying forces to the various nodes to arrange them on screen with some semblance of order.  The entire process is animated and many variables can be set in-browser.
